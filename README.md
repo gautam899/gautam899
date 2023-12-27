@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Bhavya Gautam.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; I love programming and Data Structures and algorithms.
 - 🎓 &nbsp; Studying Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
 - 🌱 &nbsp; Learning more about Backend Development, Machine Learning, and Artificial Intelligence.
 
@@ -43,5 +41,3 @@
 <a href="https://www.instagram.com/bhavyagautam899/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bhavyagautam899-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:gautambhavya899@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gautambhavya899@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
