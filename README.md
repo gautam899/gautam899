@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Bhavya Gautam.</h2>
+<img align="left" src="https://camo.githubusercontent.com/ac62db02688c2e8db07e932e8885e65bcca55b8efcd6b2debff6199998d93274/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51766b5a636d4954755a3352656a514f74512f67697068792e676966" alt="Nitish Awasthi" height="150" data-canonical-src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
