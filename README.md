@@ -5,6 +5,8 @@
 - 🤔 &nbsp; I love programming and Data Structures and algorithms.
 - 🎓 &nbsp; Studying Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
 - 🌱 &nbsp; Learning more about Backend Development, Machine Learning, and Artificial Intelligence.
+- 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
