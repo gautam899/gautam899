@@ -5,8 +5,8 @@
 - 🤔 &nbsp; I love programming and Data Structures and algorithms.
 - 🎓 &nbsp; Studying Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
 - 🌱 &nbsp; Learning more about Backend Development, Machine Learning, and Artificial Intelligence.
-- ✉️ &nbsp;You can shoot me an email at <a href="mailto:gautambhavya899@gmai.com">gautambhavya899@gmail.com</a> I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1XgdcRjhd63CdkU-Wupi-xWoYUZR5Pw7y/view?usp=sharing" rel="nofollow">Résumé</a> for more details about me. I'm open to feedback and suggestions!
+- ✉️ &nbsp;You can shoot me an email at <a href="mailto:gautambhavya899@gmai.com" target="_blank" rel="nofollow">gautambhavya899@gmail.com</a> I'll try to respond as soon as I can.
+- 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1XgdcRjhd63CdkU-Wupi-xWoYUZR5Pw7y/view?usp=sharing" rel="nofollow" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
 - 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -41,8 +41,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bhavya-gautam-3aa138212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bhavya%20Gautam-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/bhavyagautam899/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bhavyagautam899-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:gautambhavya899@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gautambhavya899@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/bhavya-gautam-3aa138212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bhavya%20Gautam-blue?style=flat-square&logo=linkedin" target="_blank" rel="nofollow"></a>
+<a href="https://www.instagram.com/bhavyagautam899/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bhavyagautam899-blue?style=flat-square&logo=instagram" target="_blank" rel="nofollow"></a>
+<a href="mailto:gautambhavya899@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gautambhavya899@gmail.com-blue?style=flat-square&logo=gmail" target="_blank" rel="nofollow"></a>
 </p>
-<p dir="auto">⭐️ From <a href="https://github.com/gautam899">Bhavya Gautam</a></p>
+<p dir="auto">⭐️ From <a href="https://github.com/gautam899" target="_blank" rel="nofollow">Bhavya Gautam</a></p>
