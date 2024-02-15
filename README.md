@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
 - 🌱 &nbsp; Learning more about Backend Development, Machine Learning, and Artificial Intelligence.
 - ✉️ &nbsp;You can shoot me an email at <a href="mailto:gautambhavya899@gmai.com" target="_blank" rel="nofollow">gautambhavya899@gmail.com</a> I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1XgdcRjhd63CdkU-Wupi-xWoYUZR5Pw7y/view?usp=sharing" rel="nofollow" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1ubrl65fgmpiTWVLdSYmFfagXpqZEe9QB/view?usp=sharing" rel="nofollow" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
 - 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
