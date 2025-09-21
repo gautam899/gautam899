@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I love programming and Data Structures and algorithms.
-- 🎓 &nbsp; Studying Computer Science and Engineering at the Indian Institute of Information Technology, Nagpur.
-- 🌱 &nbsp; Learning more about Backend Development, Machine Learning, and Artificial Intelligence.
+- 🎓 &nbsp; Computer Science and Engineering graduate from the Indian Institute of Information Technology, Nagpur.
+- 🌱 &nbsp; I primarily work with Rust and C, focusing on systems programming, compiler development, and low-level software engineering.
 - ✉️ &nbsp;You can shoot me an email at <a href="mailto:gautambhavya899@gmai.com" target="_blank" rel="nofollow">gautambhavya899@gmail.com</a> I'll try to respond as soon as I can.
 - 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1ubrl65fgmpiTWVLdSYmFfagXpqZEe9QB/view?usp=sharing" rel="nofollow" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
 - 
@@ -14,8 +14,11 @@
 
 - 💻 &nbsp;
   ![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/16px-C_Programming_Language.svg.png)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Rust](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Bash](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -24,10 +27,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  
+    
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
