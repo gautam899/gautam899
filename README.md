@@ -14,10 +14,10 @@
 
 - 💻 &nbsp;
   ![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/16px-C_Programming_Language.svg.png)
-  ![Rust](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Bash](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Rust](https://img.shields.io/badge/-Java-333333?style=flat&logo=Rust&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-C++-333333?style=flat&logo=Python%2B%2B&logoColor=00599C)
+  ![Bash](https://img.shields.io/badge/-C++-333333?style=flat&logo=Bash%2B%2B&logoColor=00599C)
   
   
 - 🌐 &nbsp;
