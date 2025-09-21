@@ -5,7 +5,7 @@
 - 🤔 &nbsp; I love programming and Data Structures and algorithms.
 - 🎓 &nbsp; Computer Science and Engineering graduate from the Indian Institute of Information Technology, Nagpur.
 - 🌱 &nbsp; I primarily work with Rust and C, focusing on systems programming, compiler development, and low-level software engineering.
-- ✉️ &nbsp;You can shoot me an email at <a href="mailto:gautambhavya899@gmai.com" target="_blank" rel="nofollow">gautambhavya899@gmail.com</a> I'll try to respond as soon as I can.
+- ✉️ &nbsp;You can shoot me an email at <a href="mailto:gautambhavya899@gmail.com" target="_blank" rel="nofollow">gautambhavya899@gmail.com</a> I'll try to respond as soon as I can.
 - 📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1ubrl65fgmpiTWVLdSYmFfagXpqZEe9QB/view?usp=sharing" rel="nofollow" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!
 - 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
@@ -13,11 +13,12 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/16px-C_Programming_Language.svg.png)
-  ![Rust](https://img.shields.io/badge/-Java-333333?style=flat&logo=Rust&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-C++-333333?style=flat&logo=Python%2B%2B&logoColor=00599C)
-  ![Bash](https://img.shields.io/badge/-C++-333333?style=flat&logo=Bash%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
   
   
 - 🌐 &nbsp;
