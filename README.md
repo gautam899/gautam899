@@ -30,10 +30,12 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
     
 - ⚙️ &nbsp;
+  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-- 🛠️ &nbsp;Tools & Platforms  
+- 🛠️ &nbsp;Tools & Platforms
+  
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
   ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
